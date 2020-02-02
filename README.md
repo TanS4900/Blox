@@ -1,1 +1,1 @@
-# Blox
+# Box Class
